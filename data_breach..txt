@@ -1,0 +1,43 @@
+PRACTICAL TASK 1 - CYBER CRIMES AND DATA BREACHES
+Student: NHLANHLA DORAH KHOZA
+Tool Used: Have I Been Pawned (https://haveibeenpwned.com)
+
+1. HAVE I BEEN PWNED CHECK:
+To complete this task, I went to https://haveibeenpwned.com and entered my email address (Timnhlulom@gmail.com).
+The website checks if the email appears in any known data breaches.
+
+If it shows "Good news — no pwnage found", it means the email was not found in major breaches.
+If it shows "Oh no — pawned!", it will list the breaches, e.g. LinkedIn (2012), Adobe (2013), Dropbox, etc.
+At the bottom of the page, I also explored the largest breaches listed:
+- Collection #1 (773 million emails and passwords)
+- LinkedIn (164 million accounts)
+- Adobe (153 million records)
+- Verifications.io etc.
+
+This shows how massive these breaches are.
+
+2. WHAT IS THE RISK WHEN EMAIL AND PASSWORD ARE EXPOSED?
+
+When an email address and password are exposed to the public, the risk is VERY HIGH and can affect the person in many ways:
+
+a) Credential Stuffing / Account Takeover:
+Most people reuse the same password for Gmail, Facebook, Banking, Instagram. Hackers use automated tools to try that same email + password on other sites. If it works, they take over your accounts.
+
+b) Identity Theft and Financial Fraud:
+With your email, hackers can reset passwords for banking apps, PayPal, online shopping. They can steal money, apply for loans in your name, or commit fraud pretending to be you.
+
+c) Phishing and Targeted Scams:
+Once criminals have your email, they can send you very convincing fake emails (e.g. "Your bank account is locked", "SARS refund"). Because they know your real email, you are more likely to click. This can lead to more hacking.
+
+d) Blackmail, Harassment and Reputation Damage:
+If the breach contains private information (private messages, photos, work emails), criminals can use it to blackmail you, embarrass you, or share it publicly. In some breaches like Ashley Madison, this caused serious personal problems.
+
+e) Spam and Selling Data on Dark Web:
+Your email is sold on the dark web to other criminals. This leads to more spam, scam calls, and you become a target for future attacks for years.
+
+In short, one leaked password can be the key to your entire digital life.
+
+3. TWO ACTIONS TO PROTECT YOURSELF AGAINST DATA BREACHES:
+
+Action 1: Use Strong, Unique Passwords and a Password Manager
+Never reuse the same password. Create a long, unique password for each account (at least 12-16 characters with letters, numbers, symbols). Use a password manager like Bitwarden, 1Password, or Google Password Manager to remember them. If one site is breached
